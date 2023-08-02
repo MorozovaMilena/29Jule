@@ -6,3 +6,4 @@ new code
 
 some python function
 
+The message from master
