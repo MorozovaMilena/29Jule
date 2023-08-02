@@ -5,3 +5,7 @@ The first program
 new code
 
 some python function
+
+The message from master
+
+The message from novaya_vetka
