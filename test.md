@@ -8,4 +8,4 @@ some python function
 
 The message from master
 
-The message from novaya_vetka
+From novaya_vetka 
